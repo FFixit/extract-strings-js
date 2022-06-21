@@ -9,7 +9,7 @@ $ npm install -g extract-strings
 ## Usage
 
 ```
-Usage: cli [options]
+Usage: extract-strings [options]
 
 Options:
   -f, --files <glob>           glob pattern of the files to read
